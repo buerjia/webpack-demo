@@ -7,7 +7,7 @@
 3. webpack 打包工具 0 配置即可打包，默认入口文件是**src/index.js**，输出文件为**dist/main.js** 支持 cmd 模块化语法`module.exports`和`require`
 4. 运行打包 `npx webpack`打包文件。npx 是查找 node_modules 下的 bin 文件夹，运行相应的 webpack.cmd 文件
 
----
+------
 
 #### 基本配置
 
